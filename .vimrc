@@ -15,6 +15,12 @@ Plugin 'moll/vim-node'
 Plugin 'scrooloose/nerdtree'
 Plugin 'scrooloose/syntastic'
 Plugin 'marijnh/tern_for_vim'
+Plugin 'lokaltog/vim-easymotion'
+Plugin 'helino/vim-json'
+Plugin 'junegunn/vim-easy-align'
+Plugin 'mhinz/vim-signify'
+Plugin 'tpope/vim-surround'
+Plugin 'tpope/vim-sensible'
 
 call vundle#end()
 filetype plugin indent on
